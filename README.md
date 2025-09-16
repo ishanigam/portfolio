@@ -1,6 +1,6 @@
 # Isha Nigam - Portfolio Website
 
-A modern, responsive portfolio website showcasing the skills, projects, and achievements of Isha Nigam, a 3rd-year B.Tech Computer Science Engineering student.
+A modern, responsive portfolio website showcasing the skills, projects, and achievements of Isha Nigam, a last year B.Tech Computer Science Engineering student.
 
 ## Features
 
